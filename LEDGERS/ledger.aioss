@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: SOFTWARE_DEVELOPMENT/GITEA_PRIOR_DOCS
+# records: 5
+# head: 79e8a3d2bc21e38faba2d658f4d94d7e7014f8066bafab154f48c7e4cf64ff84
+{"digest": "d99fef1547f77d859ad64e240a04d80adfde3544bdec6943bec044811c3bd4d2", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "ea1ea4b939ad54256f6d1e827984b8e8d267d8d27141f760c0c30ebbb136cd05", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:54:35Z"}
+{"digest": "4ef2d56e25a583738bd1eb4115f99d94e267b598968572a76d1c31f92a1e0b7c", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "86647abea26414473f8633e86c46d55e2cf38d7a5c1414482e2c23f85925b3a9", "prev": "d99fef1547f77d859ad64e240a04d80adfde3544bdec6943bec044811c3bd4d2", "seq": 1, "ts": "2026-10-09T05:54:35Z"}
+{"digest": "a64abc7121e06ee3a6039c6e7ed0ae2ee5f8d6bbe4a8e14a0f998f7990999a3f", "kind": "readme", "path": "README.md", "payload_sha3": "48ca54cc8c74d086de19e8c39be3e729e4fd006d4da82d6bc9779ee579914b55", "prev": "4ef2d56e25a583738bd1eb4115f99d94e267b598968572a76d1c31f92a1e0b7c", "seq": 2, "ts": "2026-10-09T05:54:35Z"}
+{"digest": "3c0461e4c5bb9f8252ad72e08acf69e089c69ef0492b833c6d3b5021bab7ac3a", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "208cd619f0bbddab83fe0c7c6a064df9ee521b99ca3f4f8dc394f42869bb58e5", "prev": "a64abc7121e06ee3a6039c6e7ed0ae2ee5f8d6bbe4a8e14a0f998f7990999a3f", "seq": 3, "ts": "2026-10-09T05:54:35Z"}
+{"digest": "79e8a3d2bc21e38faba2d658f4d94d7e7014f8066bafab154f48c7e4cf64ff84", "kind": "notice", "path": "NOTICE", "payload_sha3": "905c54ff27d305821398a2d7c1de63a0f77b857748f9547264fe8d563c1e8799", "prev": "3c0461e4c5bb9f8252ad72e08acf69e089c69ef0492b833c6d3b5021bab7ac3a", "seq": 4, "ts": "2026-10-09T05:54:35Z"}
